@@ -1,0 +1,7 @@
+{
+  "name": "ShortForm Audio Pro",
+  "description": "Remove silences from audio and generate subtitles from scripts for short-form content creators.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
